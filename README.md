@@ -54,4 +54,6 @@ Type 'yes' to play again, else 'no' to quit:
 👋 Bye!
 
 ## Screenshot
-![12](https://github.com/trupti142003/BYTEUPRISE_CS_03/assets/142775954/bb6af461-9e55-493a-a33f-eb499950a5d5)
+<img width="760" alt="image" src="https://github.com/chaturadevop21/BYTEUPRISE_CS_03/assets/141263849/777587e8-18eb-4625-8d11-0dc756276379">
+
+
